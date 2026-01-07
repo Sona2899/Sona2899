@@ -1,16 +1,38 @@
-## Hi there 👋
+<h2 align="left">Hi, I'm Sona 👋</h2>
 
-<!--
-**Sona2899/Sona2899** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <strong>Data Analyst</strong> | SQL • Power BI • Excel • Python
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  I build data analytics projects, dashboards, and business insights.<br>
+  Currently focused on strengthening SQL and Power BI skills.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-Data%20Analysis-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboards-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-Data%20Cleaning-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-Pandas%20%7C%20EDA-lightgrey?style=flat-square" />
+</p>
+
+---
+
+### 📌 What I Work On
+- End-to-end data analysis projects  
+- Business-focused SQL case studies  
+- Interactive Power BI dashboards  
+- Data cleaning & exploratory analysis  
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin" />
+  </a>
+</p>
